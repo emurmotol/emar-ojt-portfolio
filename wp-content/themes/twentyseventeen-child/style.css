@@ -14,8 +14,12 @@ Version: 1.0.0
     font-size: 40px;
 }
 
-.site-description, .entry-title {
+.entry-title, .site-description {
     font-size: 25px !important;
+}
+
+.site-description {
+    font-weight: bold;
 }
 
 .site-info {
